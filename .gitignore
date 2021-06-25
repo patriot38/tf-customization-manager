@@ -1,0 +1,5 @@
+venv/
+cfg.json
+.idea/
+sounds.csv
+huds.json
